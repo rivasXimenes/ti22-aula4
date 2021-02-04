@@ -1,0 +1,40 @@
+/* Reset */
+*
+{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main
+{
+    max-width: 1600px;
+    text-align: center;
+}
+
+section
+{
+    width: 100%;
+}
+
+
+img 
+{
+    width: 60px;
+}
+
+footer 
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(212, 137, 245);
+}
+
+section
+{
+    display: block;
+}
+
+
+

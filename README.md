@@ -1,3 +1,3 @@
 # ti22-aula4
-## Feito pela turmma ti 22
+## Feito pela turma TI22
 ### **Revisão de HTML** 

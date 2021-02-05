@@ -28,13 +28,13 @@ footer
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: rgb(212, 137, 245);
+    background-color: #ffdee9;
+    font-weight: bolder;
 }
 
-section
+header
 {
-    display: block;
+    background-color: #ffdee9;
 }
-
 
 
